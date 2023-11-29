@@ -19,7 +19,7 @@ export default function Home() {
             >
               TheWitch{' '}
               <Image
-                src="vercel.ico"
+                src="./vercel.ico"
                 alt="Vercel Logo"
                 className="dark"
                 width={50}
