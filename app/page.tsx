@@ -18,13 +18,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               TheWitch{' '}
-              <Image
-                src="./vercel.ico"
-                alt="Vercel Logo"
-                className="dark"
-                width={50}
-                height={24}
-                priority />
+              
             </a>
           </div>
         </div>
